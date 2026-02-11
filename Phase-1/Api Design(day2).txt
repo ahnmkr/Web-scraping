@@ -1,0 +1,7 @@
+API Design:
+
+I learned the basic concepts of API design. First, I understood HTTP and how communication happens between client and server using request and response. I learned different HTTP methods like GET, POST, PUT, and DELETE and when to use them.
+
+I also studied HTTP status codes, headers, and cookies and their role in sending and receiving data. I learned about URL structure, path parameters, and query parameters used to identify and filter resources.
+
+Additionally, I understood TCP/IP basics and how internet communication works. I learned what an API is, different types of APIs such as REST, SOAP, GraphQL, and WebSocket, and the differences between each API style.
