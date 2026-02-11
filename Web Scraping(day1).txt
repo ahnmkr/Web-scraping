@@ -1,0 +1,55 @@
+ Web Scraping:
+
+1. Introduction
+
+ I learned that web scraping is used to automatically collect data from websites using code instead of manual copying, helping to save time and gather     
+ large amounts of data quickly.
+
+
+2. Uses of Web Scraping
+
+ I learned that web scraping is useful for:
+
+   Price comparison and market analysis
+
+   Financial data collection
+
+   Social media monitoring
+
+   SEO tracking
+
+   Research and machine learning
+
+3. Techniques
+
+ I understood different scraping techniques such as:
+
+   HTML parsing
+
+   DOM parsing
+
+   API access
+
+   Browser automation
+
+4. Tools Learned
+
+ I learned to use these tools:
+
+   Requests – sending HTTP requests
+
+   BeautifulSoup – extracting data from HTML
+
+   Scrapy – large-scale scraping
+
+   Selenium – browser automation
+
+5. Challenges
+
+ I also learned about challenges like:
+
+   Website structure changes
+
+   Anti-scraping protections
+
+   Legal and ethical considerations
