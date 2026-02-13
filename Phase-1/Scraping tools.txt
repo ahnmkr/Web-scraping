@@ -1,0 +1,31 @@
+Today I learned Scrapy Selenium and Playwright for advanced web scraping
+These tools help automate data extraction from static and dynamic websites
+
+Scrapy:
+
+Learned Scrapy basics
+Created Scrapy projects
+Understood spiders
+Sent HTTP requests and received responses
+Extracted data using XPath and CSS selectors
+Handled pagination
+Saved data in JSON/CSV format
+Understood pipelines and asynchronous scraping
+
+Selenium:
+
+Learned Selenium WebDriver basics
+Navigated web pages
+Clicked buttons and filled forms
+Handled JavaScript dynamic content
+Used implicit and explicit waits
+Learned headless browser basics
+
+Playwright:
+
+Learned Playwright basics
+Launched browsers
+Navigated between pages
+Interacted with page elements
+Handled dynamic content
+Understood advantages over Selenium like faster execution
