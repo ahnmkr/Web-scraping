@@ -1,0 +1,19 @@
+User Agent Strings:
+
+A User Agent String is a text sent by a browser or application to a web server when making a request 
+It tells the server information about the browser, operating system, and device being used
+
+
+ What Information It Contains:
+
+ Browser name and version
+ Operating system (Windows, Android, iOS.)
+ Device type (Mobile or Desktop)
+ Rendering engine
+
+ Why It Is Used:
+
+ To show mobile or desktop version of websites
+ For analytics and tracking
+ For testing and debugging
+ In web scraping and API requests
